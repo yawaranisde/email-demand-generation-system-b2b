@@ -1,8 +1,10 @@
 # B2B Email Demand Generation System (Assurety Consulting)
 
-## Overview
+## Project Snapshot
 
-Built a structured email demand generation system that transformed email into the highest-performing digital channel for Assurety’s AI and compliance products.
+- Role: Digital Marketing Manager  
+- Timeline: Jan–Dec 2024  
+- Objective: Build a scalable email system to generate high-intent engagement and support pipeline growth  
 
 ---
 
@@ -12,80 +14,106 @@ Email marketing lacked structure and visibility:
 
 - No segmentation  
 - No content strategy  
-- No tracking of user intent  
-- No connection between engagement and sales  
+- No connection between engagement and sales intent  
+- No visibility into buyer behavior  
 
-Result: No reliable pipeline contribution from email.
-
----
-
-## Solution
-
-Designed a **3-layer email system aligned with buyer intent**, supported by intent-based tracking.
-
-- Tier 1 → Thought leadership (awareness)  
-- Tier 2 → Testimonials (trust)  
-- Tier 3 → Product education (conversion)  
-
-This created a system that moves users from awareness → consideration → action.
+Result: Lost pipeline and inconsistent performance.
 
 ---
 
-## How the System Works
+## Solution: Intent-Based Email Demand System
 
-1. Acquire and clean high-intent audience  
-2. Deliver stage-based content (education → trust → product)  
-3. Track user behavior at each stage  
-4. Identify high-intent users  
-5. Optimize campaigns based on real engagement signals  
+Built a structured system combining:
+
+- Audience rebuilding  
+- Tiered content strategy  
+- Intent-based tracking  
 
 ---
 
 ## System Architecture
 
-### Audience Engine
-- Cleaned and rebuilt email lists  
-- Generated high-intent audiences  
+### 1. Audience Engine
 
-### Content System
-- Awareness → Educational content  
-- Trust → Testimonials  
-- Conversion → Product-focused emails  
-
-### Campaign Execution
-- Structured cadence  
-- High deliverability (>95%)  
-
-### Intent Tracking Layer
-- CTA clicks  
-- Product page visits  
-- Contact form interactions  
+- Cleaned and reactivated event-based lists (NAPM, NPF)  
+- Built high-intent audience using targeted campaigns  
+- Focused on commercial mailers, financial institutions, USPS partners  
 
 ---
 
-## Campaign Performance
+### 2. Content System (3-Tier Model)
 
-- 77,530 emails sent  
-- 25.78% open rate  
-- 11,042 clicks  
-- 7,177 high-intent actions  
+- Tier 1 → Thought leadership (awareness)  
+- Tier 2 → Testimonials (trust)  
+- Tier 3 → Product education (conversion)  
 
-### Intent Breakdown
+---
 
-- 3,751 CTA clicks  
-- 3,013 product page visits  
-- 412 contact form clicks  
+### 3. Delivery & Cadence
+
+- Tested campaign frequency (up to 4 campaigns/month)  
+- Maintained 95%+ deliverability  
+- 0.47% unsubscribe rate  
+
+---
+
+### 4. Intent Tracking Framework
+
+Tracked user behavior across funnel:
+
+- CTA clicks → initial interest  
+- Product page visits → consideration  
+- Contact form clicks → conversion intent  
+
+---
+
+## Funnel Logic
+
+Email → CTA → Product Page → Contact Form
+
+Each step increases user intent and readiness to convert.
+
+---
+
+## Performance Results
+
+- Emails Sent: 77,530  
+- Open Rate: 25.78%  
+- Total Clicks: 11,042  
+- Click-to-Open Rate: 58%  
+
+### High-Intent Actions (7,177)
+
+- CTA Clicks: 3,751  
+- Product Page Visits: 3,013  
+- Contact Form Clicks: 412  
+
+---
+
+## Monthly Highlights
+
+- May → 1,297 clicks (testimonial-driven trust content)  
+- Aug → 1,609 clicks (high-frequency testing)  
+- Sep → 2,169 clicks (peak performance)  
 
 ---
 
 ## Business Impact
 
-- Email became the most consistent demand generation channel  
+- Email became the highest-performing digital channel  
 - Enabled visibility into user intent and behavior  
-- Improved quality of leads entering the sales pipeline  
+- Improved quality of leads entering the pipeline  
 
 ---
 
 ## Key Insight
 
-Email performance improves when content is aligned with buyer intent and measured through meaningful engagement signals, not just opens and clicks.
+Precision targeting + structured content architecture drives higher intent than volume-based email campaigns.
+
+---
+
+## Next Step
+
+Build automated nurture flows based on intent signals:
+
+CTA → Product Page → Contact Form → Demo
