@@ -1,8 +1,9 @@
 # B2B Email Demand Generation System (Assurety Consulting)
+This repository documents a full B2B email demand generation system built to drive high-intent engagement and pipeline growth.
 
 ## Project Snapshot
 
-- Role: Digital Marketing Manager  
+- Role: Performance Marketing  
 - Timeline: Jan–Dec 2024  
 - Objective: Build a scalable email system to generate high-intent engagement and support pipeline growth  
 
